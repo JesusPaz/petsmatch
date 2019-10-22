@@ -20,9 +20,9 @@ cd dist
 echo Deploying..
 git init
 git add -A
-git commit -m 'deploy to gh-pages'
+git commit -m 'deploy to heroku'
 
 # deploy
-git push -f https://github.com/JesusPaz/login-project.git master:gh-pages
+git push -f https://github.com/JesusPaz/petsmatch.git master:heroku
 
 cd -
