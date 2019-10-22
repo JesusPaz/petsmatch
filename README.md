@@ -1,4 +1,4 @@
-# login-project
+# pets-match
 
 ## Project setup
 ```
